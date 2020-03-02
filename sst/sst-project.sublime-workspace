@@ -1,0 +1,525 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"XGOAL",
+				"XGOAL"
+			],
+			[
+				"edge",
+				"edgelst2"
+			],
+			[
+				"under",
+				"\\underline{text}                                  \tlatex-document"
+			],
+			[
+				"end",
+				"endnode"
+			],
+			[
+				"goal",
+				"goalinit"
+			],
+			[
+				"cost",
+				"cost_to_go"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"delta",
+				"delta_s"
+			],
+			[
+				"within",
+				"within_boundary"
+			],
+			[
+				"fo",
+				"format"
+			],
+			[
+				"xnew",
+				"xnew_traj"
+			],
+			[
+				"is",
+				"is_locally_best"
+			],
+			[
+				"rand",
+				"random"
+			],
+			[
+				"best",
+				"best_first_selection"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"X",
+				"XDIM"
+			],
+			[
+				"ba",
+				"\\backslash                                        \tlatex-mathsymbols"
+			],
+			[
+				"caption",
+				"\\caption[short]{title}                            \tlatex-document"
+			],
+			[
+				"include",
+				"\\includegraphics{name}                            \tlatex-document"
+			],
+			[
+				"vspace",
+				"\\vspace{length}                                   \tlatex-document"
+			],
+			[
+				"hspace",
+				"\\hspace{length}                                   \tlatex-document"
+			],
+			[
+				"inf",
+				"\\infty                                            \tlatex-mathsymbols"
+			],
+			[
+				"ref",
+				"\\refname{name}                                    \tlatex-document"
+			],
+			[
+				"hspa",
+				"\\hspace{length}                                   \tlatex-document"
+			],
+			[
+				"quo",
+				"\\begin{quote}                                     \tlatex-document"
+			],
+			[
+				"bibi",
+				"\\bibliography{file}                               \tlatex-document"
+			],
+			[
+				"begin",
+				"\\begin{}                                          \tlatex-document"
+			],
+			[
+				"mathcl",
+				"\\mathcal{text}                                    \tlatex-document"
+			],
+			[
+				"hfi",
+				"\\hlinefill                                        \tlatex-document"
+			],
+			[
+				"sqrt",
+				"\\sqrt{arg}                                        \tlatex-document"
+			],
+			[
+				"M",
+				"M"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"last_filter": "prv",
+		"selected_items":
+		[
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"abs(3+4j)",
+			"1+1",
+			"abs(3+4j)",
+			"10**378",
+			"10**310",
+			"10**309",
+			"10**308",
+			"1+1"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/l2larocq/Google Drive/Research/Masters/code/planners/sst/sst_movingpoint.py",
+		"/Users/l2larocq/Google Drive/Research/Masters/code/planners/sst/simulation.py",
+		"/Users/l2larocq/Google Drive/Research/Masters/code/planners/sst/planning_with_specs.py",
+		"/Users/l2larocq/Google Drive/Research/Masters/notes/AO planning mu calc/AO motion planning mu calc.tex",
+		"/Users/l2larocq/Desktop/UniversityOfWaterloo_logo_horiz_rgb.png",
+		"/Users/l2larocq/Google Drive/Research/Masters/Code/Planners/sst/sst-trueflappy.py",
+		"/Users/l2larocq/Google Drive/Research/Masters/Code/Planners/sst/sststar-flappy.py",
+		"/Users/l2larocq/Desktop/benchmarking/build/lib/rllab/config.py",
+		"/Users/l2larocq/Desktop/rrgstar-master/README.md",
+		"/Users/l2larocq/Desktop/rrgstar-master/src/components/collision_checkers/mu_calculus.hpp",
+		"/Users/l2larocq/Google Drive/Documents/Courses/AMATH 751/Project/Report/report.tex",
+		"/Users/l2larocq/Google Drive/Research/Masters/Code/Planners/sst/line_intersect.py",
+		"/Users/l2larocq/Google Drive/Research/Masters/Code/Planners/sst/sst-grav.py",
+		"/Users/l2larocq/Google Drive/Research/Masters/Code/Planners/sst/sst_obs.py",
+		"/Users/l2larocq/Google Drive/Research/Masters/Code/Planners/sst/sst.py",
+		"/Users/l2larocq/Google Drive/Research/Masters/Code/Planners/rrtstar_obs/rrtstar.py",
+		"/Users/l2larocq/Google Drive/Research/Masters/Code/Planners/SST/sst.py",
+		"/Users/l2larocq/Google Drive/Research/Masters/Code/Planners/sst/2017-03-21--13.30.12/params.txt",
+		"/Users/l2larocq/Google Drive/Research/Masters/Code/Planners/sst.py",
+		"/Users/l2larocq/Google Drive/Research/Masters/Code/Planners/test_mcp.py",
+		"/Users/l2larocq/Google Drive/Research/Masters/Code/Planners/rrtstar_goalregion.py",
+		"/Users/l2larocq/Google Drive/Research/Masters/Code/Planners/rrt.py",
+		"/Users/l2larocq/Desktop/array.py",
+		"/Users/l2larocq/Desktop/sst/src/motion_planners/sst.cpp",
+		"/Users/l2larocq/Desktop/sst/include/motion_planners/sst.hpp",
+		"/Users/l2larocq/Desktop/sst/include/motion_planners/planner.hpp",
+		"/Users/l2larocq/Desktop/sst/include/nearest_neighbors/graph_nearest_neighbors.hpp",
+		"/Users/l2larocq/Google Drive/Research/Masters/Code/Planners/rrtstar_obs/lineIntersect.py",
+		"/Users/l2larocq/Library/Application Support/Sublime Text 3/Packages/Python/Python.sublime-build",
+		"/Users/l2larocq/Google Drive/Documents/Resumes/Templates/friggeri_cv_10/cv_10.tex",
+		"/Users/l2larocq/Library/Application Support/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/usr/local/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec.sty",
+		"/Users/l2larocq/Google Drive/Documents/OGS application.gdoc",
+		"/Users/l2larocq/Desktop/neural-networks-and-deep-learning-master/src/network.py",
+		"/Users/l2larocq/Desktop/rllab-master/setup.py",
+		"/Users/l2larocq/Google Drive/Other/christmas2016.tex",
+		"/Users/l2larocq/Google Drive/Documents/AMATH 751/Project/Report/chap1.tex",
+		"/Users/l2larocq/Google Drive/Documents/AMATH 751/Project/Report/chap2.tex",
+		"/Users/l2larocq/Google Drive/Documents/AMATH 740/practice/backsub.py",
+		"/Users/l2larocq/Google Drive/Documents/AMATH 751/Project/Report/chap3.tex",
+		"/Users/l2larocq/Google Drive/Documents/AMATH 751/Project/Report/report.tex",
+		"/Users/l2larocq/Downloads/uw-ethesis-frontpgs.tex",
+		"/Users/l2larocq/Downloads/uw-ethesis.tex",
+		"/Users/l2larocq/Google Drive/Documents/AMATH 751/Report/chap1.tex",
+		"/Users/l2larocq/Google Drive/Documents/AMATH 751/Project/Presentation/project_slides.tex",
+		"/Users/l2larocq/Google Drive/Documents/AMATH 740/A06/find_shift_solution.py",
+		"/Users/l2larocq/Google Drive/Documents/AMATH 740/A06/Fourier_derivative.py",
+		"/Users/l2larocq/Google Drive/Documents/AMATH 740/A06/tex/A06_mysolns.tex",
+		"/Users/l2larocq/Google Drive/Documents/AMATH 740/A06/A06_mysolns.tex",
+		"/Users/l2larocq/Google Drive/Documents/AMATH 751/Project/Presentation/bib.bib",
+		"/Users/l2larocq/Google Drive/Documents/AMATH 740/A05/two_systems.py",
+		"/Users/l2larocq/Google Drive/Documents/AMATH 740/A05/myLinAlg.py",
+		"/Users/l2larocq/Google Drive/Documents/AMATH 751/Report/library.bib",
+		"/Users/l2larocq/Google Drive/Documents/LaTeX/Assn_template.tex",
+		"/Users/l2larocq/Google Drive/Research/Masters/library.bib",
+		"/Users/l2larocq/Google Drive/Documents/AMATH 740/A04/tex/A04_mysolns.tex"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			".cost",
+			"dist",
+			"square",
+			"Node",
+			"xinit",
+			"print",
+			"0.5",
+			"min",
+			"rand",
+			"goal",
+			"b",
+			"b ",
+			"b",
+			"Searching",
+			"b",
+			"section"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"cur",
+			"square",
+			"newnode",
+			"y",
+			"b",
+			"y",
+			"b",
+			"y"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 145.0
+	},
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"output.latextools":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "sst-project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 149.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
